@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Collins Muthomi Micheni
+# 👋 Hey, I'm Collins Muthomi M
 
 **Software Developer | Java Spring Boot | Go | Flutter | ISP & Network Solutions**
 
